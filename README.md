@@ -1,2 +1,2 @@
 # yaxphoto
-projecet yax photo
+project
